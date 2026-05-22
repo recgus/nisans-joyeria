@@ -1,0 +1,36 @@
+[
+  {
+    "id": "AB001",
+    "nombre": "Anillo de boda clásico",
+    "categoria": "Anillos de boda",
+    "subcategoria": "Oro amarillo",
+    "precio": 120000,
+    "material": "Oro 18k",
+    "descripcion": "Alianza clásica de oro amarillo 18k, ideal para boda o compromiso.",
+    "imagen": "img/productos/AB001/1.jpg",
+    "imagenes": [
+      "img/productos/AB001/1.jpg",
+      "img/productos/AB001/2.jpg",
+      "img/productos/AB001/3.jpg"
+    ],
+    "stock": true,
+    "talles": ["14", "15", "16", "17", "18", "19", "20"]
+  },
+  {
+    "id": "AB002",
+    "nombre": "Alianza oro blanco elegante",
+    "categoria": "Anillos de boda",
+    "subcategoria": "Oro blanco",
+    "precio": 145000,
+    "material": "Oro blanco 18k",
+    "descripcion": "Diseño moderno y delicado para parejas que buscan una alianza elegante.",
+    "imagen": "img/productos/AB002/1.jpg",
+    "imagenes": [
+      "img/productos/AB002/1.jpg",
+      "img/productos/AB002/2.jpg",
+      "img/productos/AB002/3.jpg"
+    ],
+    "stock": true,
+    "talles": ["15", "16", "17", "18", "19"]
+  }
+]
